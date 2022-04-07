@@ -5,6 +5,4 @@
 - 📫 How to reach me davidtonyawusaku@gmail.com
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Boydeee&&show_icons=true&title_color=ffffff&icon_color=0892D0&text_color=ffffff&bg_color=171717">
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=Boydeee&&show_icons=true&theme=gruvbox">
